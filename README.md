@@ -49,7 +49,7 @@ Geminizin seçimine göre farklı deneyimler yaşayacaksınız:
 ![meteor level](https://github.com/user-attachments/assets/eec6a91e-e1dc-410d-a865-c4e222324642)
 - **Oynanış:**
 
-![gif-ezgif com-optimize (1)](https://github.com/user-attachments/assets/763d1785-6e1f-4a22-a6d8-1ce5f206d34d)
+   ![gif-ezgif com-optimize (1)](https://github.com/user-attachments/assets/763d1785-6e1f-4a22-a6d8-1ce5f206d34d)
 
 
 
