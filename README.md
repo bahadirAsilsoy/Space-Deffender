@@ -23,6 +23,11 @@ Space Defender, düşman uzay gemilerini yok etmek amacıyla tasarlanmış heyec
     - **Ateş Hızı:** Yavaş mermi atar.
     - **Özel:** Bir düşmana çarpana veya mermi ekrandan çıkana kadar yalnızca 1 mermi atma hakkı vardır; ancak attığı mermi, düşmanın kalan can değerine bakılmaksızın onu yok eder.
 
+### Düşman Gemileri
+- Oyunda 4-5 farklı tipte düşman gemisi bulunuyor.
+- Her düşman gemisinin kendine özgü özellikleri var; boyutları ve can değerleri farklı.
+- Bazı düşmanlar daha büyük ve dayanıklı, bazıları ise daha küçük ve hızlı hareket edebiliyor.
+
 ## Oynanış
 
 Oyuna başladığınızda:
@@ -36,8 +41,10 @@ Geminizin seçimine göre farklı deneyimler yaşayacaksınız:
 
 ## Görseller ve Demo
 
-- **GIF:**  ![anamenü](https://github.com/user-attachments/assets/df1229b3-fa14-40cb-a68a-6c9bf5ff3250)
+- **Ana menü:**  ![anamenü](https://github.com/user-attachments/assets/df1229b3-fa14-40cb-a68a-6c9bf5ff3250)
+- **Gemi seçim ekranı:**  ![gemi](https://github.com/user-attachments/assets/277154aa-ff09-4d6c-89b8-cac37125e43a)
+- **Meteor Level'ı:**![meteor level](https://github.com/user-attachments/assets/eec6a91e-e1dc-410d-a865-c4e222324642)
+- **Oynanış:** [Gif.webm](https://github.com/user-attachments/assets/f87f1207-b204-4683-8c28-e309ff2d43fb)
 
-  *(Buraya oyundan kısa bir aksiyon GIF'i ekleyebilirsiniz.)*
-- **Ekran Görüntüsü:**  
-  *(Buraya oyunun belirli bir sahnesinin ekran görüntüsünü ekleyebilirsiniz.)*
+
+
