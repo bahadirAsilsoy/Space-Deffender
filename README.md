@@ -36,7 +36,8 @@ Geminizin seçimine göre farklı deneyimler yaşayacaksınız:
 
 ## Görseller ve Demo
 
-- **GIF:**  
+- **GIF:**  ![anamenü](https://github.com/user-attachments/assets/df1229b3-fa14-40cb-a68a-6c9bf5ff3250)
+
   *(Buraya oyundan kısa bir aksiyon GIF'i ekleyebilirsiniz.)*
 - **Ekran Görüntüsü:**  
   *(Buraya oyunun belirli bir sahnesinin ekran görüntüsünü ekleyebilirsiniz.)*
