@@ -41,10 +41,13 @@ Geminizin seçimine göre farklı deneyimler yaşayacaksınız:
 
 ## Görseller ve Demo
 
-- **Ana menü:**  ![anamenü](https://github.com/user-attachments/assets/df1229b3-fa14-40cb-a68a-6c9bf5ff3250)
-- **Gemi seçim ekranı:**  ![gemi](https://github.com/user-attachments/assets/277154aa-ff09-4d6c-89b8-cac37125e43a)
-- **Meteor Level'ı:**![meteor level](https://github.com/user-attachments/assets/eec6a91e-e1dc-410d-a865-c4e222324642)
-- **Oynanış:** [Oynanıs.webm](https://github.com/user-attachments/assets/f87f1207-b204-4683-8c28-e309ff2d43fb)
+- **Ana menü:**  
+![anamenü](https://github.com/user-attachments/assets/df1229b3-fa14-40cb-a68a-6c9bf5ff3250)
+- **Gemi seçim ekranı:**  
+![gemi](https://github.com/user-attachments/assets/277154aa-ff09-4d6c-89b8-cac37125e43a)
+- **Meteor Level'ı:** 
+![meteor level](https://github.com/user-attachments/assets/eec6a91e-e1dc-410d-a865-c4e222324642)
+- **Oynanış:** 
 
 ![gif-ezgif com-optimize (1)](https://github.com/user-attachments/assets/763d1785-6e1f-4a22-a6d8-1ce5f206d34d)
 
