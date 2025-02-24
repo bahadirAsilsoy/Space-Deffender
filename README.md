@@ -23,11 +23,6 @@ Space Defender, düşman uzay gemilerini yok etmek amacıyla tasarlanmış heyec
     - **Ateş Hızı:** Yavaş mermi atar.
     - **Özel:** Bir düşmana çarpana veya mermi ekrandan çıkana kadar yalnızca 1 mermi atma hakkı vardır; ancak attığı mermi, düşmanın kalan can değerine bakılmaksızın onu yok eder.
 
-## Kurulum
-
-Oyunu çalıştırmak için özel bir gereksinim yoktur.  
-Sadece oyunun simgesine çift tıklayarak oyunu başlatabilirsiniz.
-
 ## Oynanış
 
 Oyuna başladığınızda:
