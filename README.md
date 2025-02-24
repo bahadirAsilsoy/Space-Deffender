@@ -24,7 +24,7 @@ Space Defender, düşman uzay gemilerini yok etmek amacıyla tasarlanmış heyec
     - **Özel:** Bir düşmana çarpana veya mermi ekrandan çıkana kadar yalnızca 1 mermi atma hakkı vardır; ancak attığı mermi, düşmanın kalan can değerine bakılmaksızın onu yok eder.
 
 ### Düşman Gemileri
-- Oyunda 4-5 farklı tipte düşman gemisi bulunuyor.
+- Oyunda 5 farklı tipte düşman gemisi bulunuyor.
 - Her düşman gemisinin kendine özgü özellikleri var; boyutları ve can değerleri farklı.
 - Bazı düşmanlar daha büyük ve dayanıklı, bazıları ise daha küçük ve hızlı hareket edebiliyor.
 
@@ -47,7 +47,8 @@ Geminizin seçimine göre farklı deneyimler yaşayacaksınız:
 ![gemi](https://github.com/user-attachments/assets/277154aa-ff09-4d6c-89b8-cac37125e43a)
 - **Meteor Level'ı:** 
 ![meteor level](https://github.com/user-attachments/assets/eec6a91e-e1dc-410d-a865-c4e222324642)
-- **Oynanış:** 
+- **Oynanış:**
+
 ![gif-ezgif com-optimize (1)](https://github.com/user-attachments/assets/763d1785-6e1f-4a22-a6d8-1ce5f206d34d)
 
 
