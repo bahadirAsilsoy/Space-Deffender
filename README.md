@@ -39,7 +39,7 @@ Your experience will vary depending on the ship you choose:
 - **Phoenix:** A balanced option with moderate speed and damage.
 - **Titan:** Capable of a single, powerful shot that completely destroys enemies with each hit.
 
-## Images and Demo
+## Images and Gameplay
 
 - **Main Menu:**  
 ![Main Menu](https://github.com/user-attachments/assets/df1229b3-fa14-40cb-a68a-6c9bf5ff3250)
